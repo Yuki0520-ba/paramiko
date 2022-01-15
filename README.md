@@ -4,12 +4,12 @@ paramikoのサンプルスクリプト
 
 # 使用方法  
 - 必要なライブラリのインストール  
-'''shell
+'''shell  
 pip install requirements.txt
 '''  
   
 - 以下のような設定用jsonファイルの作成  
-'''json
+'''json  
 {
     "IP":"your host ip address",
     "USER":"login username",
@@ -18,11 +18,11 @@ pip install requirements.txt
 '''  
   
 - スクリプト内のコマンドを指定  
-'''python
+'''python  
 cmd='ls -l'
 '''  
   
 - スクリプトを実行  
-'''shell
+'''shell  
 python3 paramiko_sample.py  
 '''  
