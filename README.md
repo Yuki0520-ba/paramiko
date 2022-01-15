@@ -5,7 +5,7 @@ paramikoのサンプルスクリプト
 # 使用方法  
 - 必要なライブラリのインストール  
 ```shell  
-pip install requirements.txt  
+pip install -r requirements.txt  
 ```
   
 - 以下のような設定用jsonファイルの作成  
