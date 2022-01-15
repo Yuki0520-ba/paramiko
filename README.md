@@ -11,10 +11,10 @@ pip install requirements.txt
 - 以下のような設定用jsonファイルの作成  
 '''json  
 {
-    "IP":"your host ip address",
-    "USER":"login username",
-    "SECRET_KEY_PATH":"your secret key path"
-}
+    "IP":"your host ip address",  
+    "USER":"login username",  
+    "SECRET_KEY_PATH":"your secret key path"  
+}  
 '''  
   
 - スクリプト内のコマンドを指定  
